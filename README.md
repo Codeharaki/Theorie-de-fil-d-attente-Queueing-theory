@@ -2,11 +2,11 @@
 Creating a model of the computing system and its components at some level of detailing, describing and imitating its structures and functionality
 
 Parameters of model elements. 
-1.Source :infinite;
-Rule - Exponential Delay
+1.Source : distribution;
+Rule - Exponential distributions <<https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php>>
 
 2.Instruments:- laws of distribution of maintenance time;
-Rule - Uniform distribution
+Rule - Uniform distribution <<http://mathworld.wolfram.com/UniformDistribution.html >>
 
 3.Discipline description (dispatcher functions)
 
@@ -22,3 +22,11 @@ Rule: ''Circular''
 
 
 
+## Built With
+Microsoft Visual Studio 2017 
+
+## Language 
+C++  code | C# interface
+
+## Author
+* **HARAKI YOUNESS** - (https://github.com/Codeharaki) 
